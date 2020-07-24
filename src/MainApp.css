@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+
+.navbar{
+    background-color: #fff !important;
+}
+
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: #565387 !important;
+}
+.navbar-brand img{
+    width: 150px !important;
+    height: 60px !important;
+}
+
+.navbar a{
+    font-size: 1.3 rem !important;
+    text-transform: capitalize;
+    color: black !important;
+}
+.active-menu{
+    font-style: bold !important;
+    border-bottom: 2px solid #3498db !important;
+}
+.navbar a:hover{
+    color: #3498db !important;
+}
+.data-table{
+    background-color: #ffff !important;
+    -webkit-box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+}
+
+
+
+/* =====================Header================= */
+
+.main-header{
+    height: 80vh;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img{
+    width: 300px;
+    height: 300px;
+    animation: heartBeat 5s linear infinite;
+}
+
+.title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title-container h1 span img{
+    width: 50px;
+    height: 50px;
+    animation: rotateCorona 2s linear infinite;
+}
+
+@keyframes heartBeat{
+    0%{transform: scale(0.75);}
+    20%{transform: scale(1);}
+    40%{transform: scale(0.75);}
+    60%{transform: scale(1);}
+    80%{transform: scale(0.75);}
+   100%{transform: scale(0.75);}
+}
+@keyframes rotateCorona{
+    0%{transform: rotate(0);}
+    100%{transform: rotate(360deg);}
+}
+
+/* =========================about============ */
+.about{
+    background-color: #fbfafd !important;
+}
+.about-corona h2{
+    color: #4d4c4c !important;
+}
+.about-corona p{
+    color: #808080 !important;
+    font-size: 14px;
+}
+.symptom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+.symptom img{
+    width: 100px !important;
+    height: 150px !important;
+    justify-content: center;
+}
+
+
+
+/* =================prevention =========*/
+.prevention{
+    height: 400px !important;
+}
+
+.prevention-card{
+    width: 100% !important ;
+    height:200px !important;
+    -webkit-box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 21px 0px rgba(0,0,0,0.75);
+}
+.prevention-card img{
+    width: 80px !important;
+    height: 80px !important;
+}

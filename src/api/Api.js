@@ -43,3 +43,16 @@ export const fetchCountries = async ()=>{
         
     }
 } 
+
+// export const fetchIndiaData = async ()=>{
+//     try{
+//             const url = "https://api.covid19india.org/data.json";
+//             const response = await axios.get(url);
+//             const finalData = response.data.statewise;
+            
+//             return finalData;
+
+//     }catch(error){
+
+//     }
+// }
