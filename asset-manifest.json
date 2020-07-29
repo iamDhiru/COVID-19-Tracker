@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/COVID-19-Tracker/static/css/main.3cfdca17.chunk.css",
+    "main.js": "/COVID-19-Tracker/static/js/main.931ce8b9.chunk.js",
+    "main.js.map": "/COVID-19-Tracker/static/js/main.931ce8b9.chunk.js.map",
+    "runtime-main.js": "/COVID-19-Tracker/static/js/runtime-main.ffc7bb6c.js",
+    "runtime-main.js.map": "/COVID-19-Tracker/static/js/runtime-main.ffc7bb6c.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/COVID-19-Tracker/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6b3d0683.chunk.js": "/COVID-19-Tracker/static/js/2.6b3d0683.chunk.js",
+    "static/js/2.6b3d0683.chunk.js.map": "/COVID-19-Tracker/static/js/2.6b3d0683.chunk.js.map",
+    "index.html": "/COVID-19-Tracker/index.html",
+    "precache-manifest.5785ceae13d6a37f4f362ba71ab97b2a.js": "/COVID-19-Tracker/precache-manifest.5785ceae13d6a37f4f362ba71ab97b2a.js",
+    "service-worker.js": "/COVID-19-Tracker/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/COVID-19-Tracker/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.3cfdca17.chunk.css.map": "/COVID-19-Tracker/static/css/main.3cfdca17.chunk.css.map",
+    "static/js/2.6b3d0683.chunk.js.LICENSE.txt": "/COVID-19-Tracker/static/js/2.6b3d0683.chunk.js.LICENSE.txt",
+    "static/media/aboutcorona.jpg": "/COVID-19-Tracker/static/media/aboutcorona.7d2a0e97.jpg",
+    "static/media/breath.png": "/COVID-19-Tracker/static/media/breath.23671bdf.png",
+    "static/media/cough.png": "/COVID-19-Tracker/static/media/cough.4d4d2c3a.png",
+    "static/media/eksath.png": "/COVID-19-Tracker/static/media/eksath.61db2bcc.png",
+    "static/media/fever.png": "/COVID-19-Tracker/static/media/fever.7d15924c.png",
+    "static/media/handwash.png": "/COVID-19-Tracker/static/media/handwash.c8fdf0c0.png",
+    "static/media/home.png": "/COVID-19-Tracker/static/media/home.9e2188e6.png",
+    "static/media/image.png": "/COVID-19-Tracker/static/media/image.d7265326.png",
+    "static/media/logo1.jpg": "/COVID-19-Tracker/static/media/logo1.d1784f49.jpg",
+    "static/media/mask.png": "/COVID-19-Tracker/static/media/mask.e49fffc2.png",
+    "static/media/news.png": "/COVID-19-Tracker/static/media/news.a544368c.png",
+    "static/media/quarantine.png": "/COVID-19-Tracker/static/media/quarantine.05d9c057.png",
+    "static/media/sick.png": "/COVID-19-Tracker/static/media/sick.c0ec4881.png",
+    "static/media/week.png": "/COVID-19-Tracker/static/media/week.8a5c6cb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffc7bb6c.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6b3d0683.chunk.js",
+    "static/css/main.3cfdca17.chunk.css",
+    "static/js/main.931ce8b9.chunk.js"
+  ]
+}
